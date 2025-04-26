@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# Build files
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.db
